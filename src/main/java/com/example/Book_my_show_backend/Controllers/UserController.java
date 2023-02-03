@@ -22,10 +22,4 @@ public class UserController {
         return userService.createUser(userRequestDto);
 
     }
-
-    //Find Userby Name h.w
-
-
-    //Find all Users
-
 }

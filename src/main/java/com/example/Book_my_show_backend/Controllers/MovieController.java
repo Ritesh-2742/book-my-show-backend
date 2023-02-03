@@ -21,9 +21,4 @@ public class MovieController {
 
         return movieService.addMovie(movieRequestDto);
     }
-
-
-
-
-    //Get movie by Name
 }
